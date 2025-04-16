@@ -26,8 +26,18 @@
 ---
 
 ## 📂 Project Structure
-
-
+diabetes-xplorer/
+│
+├── data/
+│   └── diabetes.csv           # Dataset used for analysis
+│
+├── main.py                    # Main dashboard logic and UI
+├── preswald.toml              # Project configuration file
+├── README.md                  # You're here!
+│
+└── images/
+    ├── logo.png               # (Optional) Logo for dashboard
+    └── favicon.ico            # (Optional) Favicon
 
 
 ---
