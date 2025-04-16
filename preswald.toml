@@ -1,0 +1,14 @@
+[project]
+title = "Trump Tariffs Explorer"
+entrypoint = "main.py"
+port = 8501
+slug = "tariffs-app"
+
+[branding]
+name = "Trump Tariffs Dashboard"
+favicon = "images/favicon.ico"
+primaryColor = "#FF5733"
+
+[data.diabetes]
+type = "csv"
+path = "data/diabetes.csv"
